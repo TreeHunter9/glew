@@ -19,3 +19,8 @@
 /tmp
 /out
 .DS_Store*
+
+bin/
+bin-obj/
+*.sln
+*.vcxproj*
